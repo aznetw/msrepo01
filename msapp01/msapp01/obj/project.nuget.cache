@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnPtPYDS3qp52BxllAIBQzd6GKzDUgxoQItqWOzMwTsVRjjRgUGzEOClvHCbv/W/XY21shhBPoDz7iGU0kchFw==",
+  "success": true,
+  "projectFilePath": "C:\\clonedrepos\\msrepo01\\msapp01\\msapp01\\msapp01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmwinadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
